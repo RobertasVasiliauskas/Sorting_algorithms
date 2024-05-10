@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\rober\CLionProjects\AIZO_1 -B C:\Users\rober\CLionProjects\AIZO_1\cmake-build-default
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/rober/CLionProjects/AIZO_1/cmake-build-default

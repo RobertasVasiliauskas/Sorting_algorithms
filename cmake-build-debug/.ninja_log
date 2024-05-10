@@ -1,0 +1,17 @@
+# ninja log v5
+1954	2346	7356917452195522	AIZO_1.exe	548cea65fe689c29
+4	420	7311262512102778	CMakeFiles/AIZO_1.dir/main.cpp.obj	6039f78ce6fc3d49
+21	109	7310846912819379	CMakeFiles/AIZO_1.dir/sort/Sort.cpp.obj	9931fde2882c9a6c
+1	88	7310826452405509	CMakeFiles/cmake_test.dir/test.cpp.obj	70b6a6170928a1d6
+1	309	7356924913095584	build.ninja	918c827a35e0543d
+19	3020	7356909230763439	CMakeFiles/AIZO_1.dir/Data/Data.cpp.obj	4509d10a85ce0ec
+14	3026	7356909230808621	CMakeFiles/AIZO_1.dir/Sort/Sort.cpp.obj	1a2ca9a012dc30ec
+7	1953	7356917448330763	CMakeFiles/AIZO_1.dir/Menu/Menu.cpp.obj	dd99d063cb92d0c1
+7	2897	7356909229537079	CMakeFiles/AIZO_1.dir/Menu/main.cpp.obj	5937f9d1155a1dab
+43	2873	7356909229273840	CMakeFiles/AIZO_1.dir/Sort/DifferentSorts/InsertSortNotBinary/InsertSortNotBinary.cpp.obj	7171968be0a91297
+5	481	7317823309871720	CMakeFiles/AIZO_1.dir/Sort/DifferentSorts/FastSort/FastSort.cpp.obj	d485be120862409
+25	2895	7356909229511793	CMakeFiles/AIZO_1.dir/Sort/DifferentSorts/QuickSort/QuickSort.cpp.obj	ebf0e51d1040c63a
+31	2885	7356909229406446	CMakeFiles/AIZO_1.dir/Sort/DifferentSorts/InsertionSortBinary/InsertionSortBinary.cpp.obj	e9ec94ab9b3ed164
+48	2892	7356909229486731	CMakeFiles/AIZO_1.dir/Sort/DifferentSorts/HeapSort/HeapSort.cpp.obj	65c25b9478fc88e4
+6	2128	7356926923209619	CMakeFiles/AIZO_1.dir/Sort/Sort.cpp.obj	1a2ca9a012dc30ec
+2129	2561	7356926927450613	AIZO_1.exe	548cea65fe689c29
